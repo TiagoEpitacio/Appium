@@ -17,4 +17,4 @@ jobs:
           distribution: 'adopt'
           architecture: x64
       - name: Run the Maven verify phase
-        run: mvn test
+        run: mvn -Dtest=DeviceFarmLogin test
