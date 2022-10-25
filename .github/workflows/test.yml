@@ -1,4 +1,4 @@
-name: Execução de testes funcionais Appium
+name: Execução de testes funcionais com Java e Appium
 
 on:
   pull_request:
